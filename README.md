@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **77 billion people use the internet, and 0.5% of them use blockchain in some form by now.**
 
+- ☀️ Life Moto **Failure is the opportunity to begin again,more Intelligently ✌️#on_my_way_to_success**
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/neelbanker" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/identity+logo+new+twitter+icon-1320161424699291885.png" alt="neelbanker" height="30" width="40" /></a>
