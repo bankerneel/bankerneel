@@ -1,24 +1,24 @@
 <h1 align="center">Hi, I'm Neel Banker</h1>
-<h3 align="center">A passionate Blockchain & Backend Engineer from India</h3>
-
+<h3 align="center">Solution Architect | Blockchain | Cloud | IT Engineer by Degree | Gamer by ❤️ </h3>
+<h4 align="center">I am the person who believes in Peace ✌, Love ❤ and Code💻 #programmer </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankerneel&label=Profile%20views&color=0e75b6&style=flat" alt="bankerneel" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/neelbanker" target="blank"><img src="https://img.shields.io/twitter/follow/neelbanker?logo=twitter&style=for-the-badge" alt="neelbanker" /></a> </p>
 
-- 🔭 I’m currently working on **DeFi Based Gaming Platform**
+- 🔭 I’m currently working on **DeFi Platforms**
 
 - 🌱 I’m currently expanding my knowledge on **Ethereum 2.0, DeFi Protocols, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bankerneel](https://github.com/bankerneel)
 
-- 💬 Ask me about **Blockchain & Big Data**
+- 💬 Ask me about **Blockchain, DeFi, AI, Big Data**
 
 - 📫 How to reach me **neelhbanker@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/neelbanker/](https://www.linkedin.com/in/neelbanker/)
 
-- ⚡ Fun fact **People Think Blockchain can only used for Trading Crypto Currencies**
+- ⚡ Fun fact **77 billion people use the internet, and 0.5% of them use blockchain in some form by now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
