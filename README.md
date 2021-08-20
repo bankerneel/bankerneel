@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/neelbanker" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/identity+logo+new+twitter+icon-1320161424699291885.png" alt="neelbanker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neelbanker" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="neelbanker" height="30" width="40" /></a> 
+<!-- <a href="https://linkedin.com/in/neelbanker" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="neelbanker" height="30" width="40" /></a>  -->
 <a href="https://www.instagram.com/neelbanker/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="neelbanker" height="30" width="40" /></a>
 </p>
 
