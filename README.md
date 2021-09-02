@@ -18,7 +18,7 @@
 
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/neelbanker/](https://www.linkedin.com/in/neelbanker/)
  -->
-- ⚡ Fun fact **77 billion people use the internet, and 0.5% of them use blockchain in some form by now.**
+- ⚡ Fun fact **7 billion people use the internet, and 0.5% of them use blockchain in some form by now.**
 
 - ☀️ Life Moto **Failure is the opportunity to begin again,more Intelligently ✌️#on_my_way_to_success**
 
