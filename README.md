@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Neel Banker</h1>
-<h3 align="center">Solution Architect | Blockchain | Cloud | IT Engineer by Degree | Gamer by ❤️ </h3>
+<h3 align="center">Solution Architect | Blockchain | Cloud & DevOps | IT Engineer by Degree | Gamer by ❤️ </h3>
 <h4 align="center">I am the person who believes in Peace ✌, Love ❤ and Code💻 #programmer </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankerneel&label=Profile%20views&color=0e75b6&style=flat" alt="bankerneel" /> </p>
 
@@ -8,7 +8,7 @@
 
 Currently At **[SoluLab](https://www.solulab.com/)**, 
 
-- 📈 I Am Helping Startup Founders And Small to Mid-Sized North American Companies In How To Leverage **Blockchain** And Other Emerging Technologies To Upgrade Their Business Processes.
+- 📈 I Am Helping **Startup Founders And Small to Mid-Sized North American Companies** In How To Leverage **Blockchain** And Other Emerging Technologies To Upgrade Their **Business Processes**.
 
 - ⚖️ I Work As **Blockchain Team Lead** Here And Help My Clients With **Custom Blockchain Solutions** and it's Development, also I Work As **CTO** Or **Solution Architect** For Non-Technical Startup Founders And Advice Them On Building Scalable And Secure System Architecture. 
 
